@@ -1,0 +1,17 @@
+{
+  "name": "reaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.18.2",
+    "yargs": "^15.1.0",
+    "request": "^2.88.2"
+  }
+}

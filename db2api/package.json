@@ -1,0 +1,16 @@
+{
+  "name": "db2api",
+  "version": "1.0.0",
+  "description": "Generates horizon api specs from pg schema",
+  "main": "db2api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexm",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.18.2",
+    "yargs": "^15.1.0",
+    "request": "^2.88.2"
+  }
+}
